@@ -1,0 +1,14 @@
+
+div.center {
+    /* position: fixed;
+    top: 50%;
+    transform: translate(0, -50%);
+    */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px; 
+    border: solid red;
+    max-width: 600px;
+    margin: auto;
+}
